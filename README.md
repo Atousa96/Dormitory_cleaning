@@ -1,0 +1,23 @@
+# Dormitory_cleaning
+Dormitory cleaning project, user-friendly UI
+![about us](https://user-images.githubusercontent.com/100498661/159538189-d884b25e-4291-4cdf-a247-8e0061b3dfbc.png)
+![admin login](https://user-images.githubusercontent.com/100498661/159538196-a9c9efbb-5b1b-48aa-89cb-475121d05ed1.png)
+![Housekeeper Login](https://user-images.githubusercontent.com/100498661/159538211-8fa0e28e-ab7d-41c1-ba9e-e60ae7f9555d.png)
+![student login](https://user-images.githubusercontent.com/100498661/159538228-c8005c3c-5844-4a7f-ac3e-655f19e4d3c2.png)
+![admin login](https://user-images.githubusercontent.com/100498661/159538386-6a577688-f4c1-4e5f-9bff-95e86815b61e.png)
+![Housekeeper Login](https://user-images.githubusercontent.com/100498661/159538400-1a064e87-01c9-47a3-a459-1a19504fb26c.png)
+![student login](https://user-images.githubusercontent.com/100498661/159538405-1f8d32d8-64d7-4f41-ba7c-ed6b760390d7.png)
+![about us](https://user-images.githubusercontent.com/100498661/159538409-90f85905-9316-4e8e-9c6a-cf14db9a527b.png)
+![1](https://user-images.githubusercontent.com/100498661/159538453-049a8373-20c1-4098-8cb1-2e46f71d5fe3.png)
+![2](https://user-images.githubusercontent.com/100498661/159538460-9dc7a50c-aff7-48a9-bd92-8de257167408.png)
+![3](https://user-images.githubusercontent.com/100498661/159538462-2f64a6e6-c493-49f4-8944-0cfb76e2c4e7.png)
+![4](https://user-images.githubusercontent.com/100498661/159538465-cfbd31bc-665b-4de8-b029-c7c3d1867e82.png)
+![5](https://user-images.githubusercontent.com/100498661/159538469-bde97254-fc2c-49e3-8998-8e3176d72e52.png)
+![6](https://user-images.githubusercontent.com/100498661/159538473-c55865be-a28e-46bd-b602-707f41f028c2.png)
+![1](https://user-images.githubusercontent.com/100498661/159538496-af79e384-a5ef-41f2-8e87-e275dc6bc84c.png)
+![2](https://user-images.githubusercontent.com/100498661/159538503-9ddcb3cc-1e3f-4543-a599-8f61e7268d2b.png)
+![1](https://user-images.githubusercontent.com/100498661/159538535-ac55a2f4-7a34-462b-80e4-5a46466c4879.png)
+![2](https://user-images.githubusercontent.com/100498661/159538542-b58ea195-c439-48ef-b354-5bdda3c69c4c.png)
+![3](https://user-images.githubusercontent.com/100498661/159538545-814859e1-5290-426f-925f-24369f8132ea.png)
+![4](https://user-images.githubusercontent.com/100498661/159538551-df6583fe-2166-4854-b3dc-9460e0132b0a.png)
+
