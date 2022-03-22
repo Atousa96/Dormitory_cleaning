@@ -28,7 +28,6 @@
    <meta name="theme-color" content="#f0f2f5" media="(prefers-color-scheme: dark)">
    <meta name="theme-color" content="#f0f2f5" />
 </head>
-
 <body class="bg-gray-200">
    <div class="container position-sticky z-index-sticky top-0">
       <div class="row">
