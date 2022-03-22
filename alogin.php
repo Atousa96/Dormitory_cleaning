@@ -6,6 +6,15 @@
 <head>
    <title>Housekeeper Admin Login</title>
    <?php require("meta.php"); ?>
+   
+                  <style>
+                  .dropdown .dropdown-toggle::after,
+                  .dropend .dropdown-toggle::after,
+                  .dropstart .dropdown-toggle::after,
+                  .dropup .dropdown-toggle::after {
+                     font-size: 20px;
+                  }
+                  </style>
 </head>
 
 <body class="bg-gray-200">
@@ -13,7 +22,7 @@
    <div class="container position-sticky z-index-sticky top-0">
       <div class="row">
          <div class="col-12">
-            <!-- Navbar -->
+             <!-- Navbar -->
             <nav
                class="navbar navbar-expand-lg blur border-radius-xl top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                <div class="container-fluid ps-2 pe-0">
@@ -21,7 +30,21 @@
                      <i class="fas fa-box-tissue " aria-hidden="true"></i>
                      HouseKeeping
                   </a>
-                  <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse"
+                  <div class="dropdown mx-lg-auto">
+                     <button class="btn mb-0 dropdown-toggle bg-gradient-primary w-100 rounded-pill" type="button"
+                        id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fas fa-user-circle opacity-6 me-1"></i>  Admin login
+                     </button>
+                     <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuButton1">
+                        <li><a class="dropdown-item text-center" href="login.php"> <i class="fa fa-user opacity-6 text-dark me-1"></i> Student login</a></li>
+                        <!-- <li><a class="dropdown-item text-center" href="alogin.php">   <i class="fas fa-user-circle opacity-6 text-dark me-1"></i> Admin login</a></li> -->
+                        <li><a class="dropdown-item text-center" href="#">housekeeper</a></li>
+                     </ul>
+                  </div>
+
+
+
+                  <!-- <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse"
                      data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false"
                      aria-label="Toggle navigation">
                      <span class="navbar-toggler-icon mt-2">
@@ -29,9 +52,14 @@
                         <span class="navbar-toggler-bar bar2"></span>
                         <span class="navbar-toggler-bar bar3"></span>
                      </span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navigation">
-                     <ul class="navbar-nav mx-auto">
+                  </button> -->
+                  <div class="collapse-sm navbar-sm-collapse" id="navigation">
+
+
+
+
+<!-- 
+                     <ul class="navbar-nav mx-auto d-lg-none">
 
                         <li class="nav-item">
                            <a class="nav-link me-2" href="login.php">
@@ -46,14 +74,18 @@
                            </a>
                         </li>
 
-                     </ul>
+                     </ul> -->
+
+
                      <ul class="navbar-nav d-lg-block d-none">
                         <li class="nav-item">
-                           <a class="btn bg-gradient-primary  mb-0" href="https://wa.me/16478639527" target="_blank"
+                           <a class="btn  btn-secondary  mb-0" href="https://wa.me/16478639527" target="_blank"
                               type="button"> <i class="fas fa-headset" aria-hidden="true"></i> Support</a>
                         </li>
                      </ul>
                   </div>
+
+
                </div>
             </nav>
             <!-- End Navbar -->

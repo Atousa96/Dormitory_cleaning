@@ -6,6 +6,15 @@
 <head>
    <title>Housekeeper Student Login</title>
    <?php require("meta.php"); ?>
+   
+                  <style>
+                  .dropdown .dropdown-toggle::after,
+                  .dropend .dropdown-toggle::after,
+                  .dropstart .dropdown-toggle::after,
+                  .dropup .dropdown-toggle::after {
+                     font-size: 20px;
+                  }
+                  </style>
 </head>
 
 <body class="bg-gray-200">
@@ -21,25 +30,13 @@
                      <i class="fas fa-box-tissue " aria-hidden="true"></i>
                      HouseKeeping
                   </a>
-               
-
-
-                  <style>
-                  .dropdown .dropdown-toggle::after,
-                  .dropend .dropdown-toggle::after,
-                  .dropstart .dropdown-toggle::after,
-                  .dropup .dropdown-toggle::after {
-                     font-size: 20px;
-                  }
-
-                  </style>
                   <div class="dropdown mx-lg-auto">
                      <button class="btn mb-0 dropdown-toggle bg-gradient-primary w-100 rounded-pill" type="button"
                         id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                         <i class="fa fa-user opacity-6 me-1"></i>  Student login
                      </button>
                      <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuButton1">
-                        <!-- <li><a class="dropdown-item text-center fs-5" href="login.php"> Student login</a></li> -->
+                        <!-- <li><a class="dropdown-item text-center" href="login.php"> <i class="fa fa-user opacity-6 text-dark me-1"></i> Student login</a></li> -->
                         <li><a class="dropdown-item text-center" href="alogin.php">   <i class="fas fa-user-circle opacity-6 text-dark me-1"></i> Admin login</a></li>
                         <li><a class="dropdown-item text-center" href="#">housekeeper</a></li>
                      </ul>
