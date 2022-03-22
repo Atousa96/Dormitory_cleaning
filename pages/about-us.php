@@ -51,23 +51,8 @@
                      </span>
                   </button>
                   <div class="collapse navbar-collapse" id="navigation">
-                     <ul class="navbar-nav mx-auto">
-
-                        <li class="nav-item">
-                           <a class="nav-link me-2" href="../login.php">
-                              <i class="fa fa-user opacity-6 text-dark me-1"></i>
-                              Student login
-                           </a>
-                        </li>
-                        <li class="nav-item">
-                           <a class="nav-link me-2" href="../alogin.php">
-                              <i class="fas fa-user-circle opacity-6 text-dark me-1"></i>
-                              Admin login
-                           </a>
-                        </li>
-
-                     </ul>
-                     <ul class="navbar-nav d-lg-block d-none">
+                     
+                     <ul class="navbar-nav d-lg-block d-none ms-auto">
                         <li class="nav-item">
                            <a class="btn bg-gradient-primary  mb-0" href="https://wa.me/16478639527" target="_blank"
                               type="button"> <i class="fas fa-headset" aria-hidden="true"></i> Support</a>
